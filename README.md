@@ -1,6 +1,6 @@
 # 👨‍💻Kotyaeva Arina
 
-## **Data Analyst|Moscow, Russia**
+### **Data Analyst | Moscow, Russia**
 
 ---
 
