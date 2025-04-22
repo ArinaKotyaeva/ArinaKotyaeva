@@ -1,6 +1,6 @@
 # Kotyaeva Arina
 
-**Data Analyst**
+# **Data Analyst**
 
 ---
 
