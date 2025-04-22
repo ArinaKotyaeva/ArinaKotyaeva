@@ -31,17 +31,14 @@
 - 🐍 Python для анализа данных:
   - Автоматизация отчётов (Airflow, Celery)
   - Парсинг и обработка неструктурированных данных
-
-**Недавно завершил:**
-- 
-- 
+  - Визуализация на Python
 
 ---
 
 ## 📫 Как связаться
 
-💬 **Telegram**: [@kotyaeva_a](https://t.me/yournickname)  
-📧 **Email**: [arina.kotyaeva@mail.ru](mailto:your.email@example.com)  
+💬 **Telegram**: [@kotyaeva_a](https://t.me/kotyaeva_a)  
+📧 **Email**: [arina.kotyaeva@mail.ru](arina.kotyaeva@mail.ru)  
 📝 **ВК**: [kotyaeva_a](https://vk.com/kotyaeva_a)
 
 ---
