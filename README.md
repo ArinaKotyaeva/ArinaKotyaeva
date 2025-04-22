@@ -1,4 +1,4 @@
-# Kotyaeva Arina!
+# Kotyaeva Arina
 
 **Data Analyst**
 
