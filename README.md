@@ -1,6 +1,6 @@
-# Kotyaeva Arina
+# 🖥️Kotyaeva Arina
 
-## **🖥️Data Analyst📈**
+## **📈Data Analyst📈**
 
 ---
 
