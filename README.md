@@ -1,6 +1,6 @@
 # 👨‍💻Kotyaeva Arina
 
-### **Data Analyst | Moscow, Russia** | T-Bank**
+### **Data Analyst | Moscow, Russia | T-Bank**
 
 ---
 
