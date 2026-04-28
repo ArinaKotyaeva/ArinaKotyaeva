@@ -9,7 +9,7 @@
 ### 📊 Основные навыки
 - **SQL** (оптимизация запросов, сложные JOIN-операции, оконные функции)
 - **Python** (Pandas, NumPy, OOP)
-- **Визуализация данных**: Matplotlib, Seaborn
+- **Визуализация данных**: Superset, DataLens, Matplotlib, Seaborn
 - **Excel** (сводные таблицы, сложные формулы)
 - **Статистика**: A/B-тестирование, проверка гипотез, p-value
 - **Hadoop** (HDFS, MapReduce)
